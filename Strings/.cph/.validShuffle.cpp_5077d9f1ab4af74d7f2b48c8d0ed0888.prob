@@ -1,0 +1,1 @@
+{"name":"Local: validShuffle","url":"c:\\Users\\Acer\\OneDrive\\Desktop\\Work\\College\\450DSAsheet\\Strings\\validShuffle.cpp","tests":[{"id":1649678026650,"input":"XY 12\nY1X2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Acer\\OneDrive\\Desktop\\Work\\College\\450DSAsheet\\Strings\\validShuffle.cpp","group":"local","local":true}
