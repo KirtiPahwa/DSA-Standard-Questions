@@ -38,7 +38,7 @@ TreeNode<int> *helper(vector<int> &postorder, vector<int> &inorder, int l, int r
 }
 TreeNode<int> *getTreeFromPostorderAndInorder(vector<int> &postOrder, vector<int> &inOrder)
 {
-    unordered_map<int, int> mp;
+    unordered_map<int, int> mp; 
     for (int i = 0; i < inOrder.size(); i++)
     {
         mp[inOrder[i]] = i;
